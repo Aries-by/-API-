@@ -1,8 +1,9 @@
 # AI 大模型 API 测试工具 (AI LLM API Tester)
 
 这是一个基于 Python 和 CustomTkinter 构建的轻量级桌面应用程序，专门用于快速测试兼容 OpenAI 格式的大语言模型 API。它拥有极简的黑白灰外观，支持流式输出和多线程并发，让你在调试大模型接口时获得丝滑流畅的体验。
+<img width="979" height="1172" alt="image" src="https://github.com/user-attachments/assets/f07593b5-132f-4053-9aa7-3a2b21c18802" />
 
-![界面截图](放入你的截图链接或路径.png)
+
 
 ## 核心特性
 
